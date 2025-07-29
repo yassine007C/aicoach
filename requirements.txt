@@ -1,2 +1,5 @@
-flask
-openai
+upgrade
+google-generativeai
+ultralytics
+opencv-python-headless
+
